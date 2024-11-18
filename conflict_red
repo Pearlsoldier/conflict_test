@@ -1,2 +1,2 @@
 こちらはマージ先になります。
-conflict-redのみに記載
+echo "This is a conflicting change from GREEN branch" >> conflict_red
